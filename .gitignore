@@ -1,0 +1,10 @@
+# Folder
+__pycache__/
+logs/
+
+
+# File
+*.log
+apt/scripts/eval/*
+apt/scripts/train/pretrain_stage1.sh
+apt/scripts/train/pretrain_stage2.sh
